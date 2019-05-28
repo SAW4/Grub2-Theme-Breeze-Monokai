@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://gitlab.com/SatoSawa/breeze-monokai/raw/master/Screenshot_20170723_035245.png" width="600">
+<img src="https://raw.githubusercontent.com/awaSwasA/Grub2-Theme-Breeze-Monokai/master/Screenshot_20170723_035245.png" width="600">
 </p>    
 
 # breeze-monokai
